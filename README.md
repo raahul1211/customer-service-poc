@@ -11,7 +11,7 @@ correct.
 
 ### To Run this project locally follow the below steps:
 
-$ git clone https://github.com/Infosys-CAPP-CMSA/customer-service-poc
+$ git clone https://github.com/raahul1211/customer-service-poc
 $ Build the project:
     mvn clean install
 $ run the main method to start the application locally or run below command in terminal:
